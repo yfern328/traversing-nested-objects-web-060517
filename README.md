@@ -3,6 +3,8 @@ Traversing Nested Objects
 
 ## Objectives
 
+0. Add a folder called test because all the tests are broken
+
 1. Explain what a nested object looks like
 2. Explain why nested objects are useful
 3. Describe how to access inner properties
